@@ -30,6 +30,7 @@
   <con:defaultResponse>Ok Response</con:defaultResponse>
   <con:dispatchXPath/>
   <con:routeScript/>
+  <con:requestRouteScript/>
   <con:response name="Ok Response" encoding="UTF-8" httpResponseStatus="200" id="25e19ac5-b249-45c9-ad04-2a1ce42674af" dataSource="">
     <con:settings/>
     <con:responseContent><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sam="http://www.soapui.org/sample/">

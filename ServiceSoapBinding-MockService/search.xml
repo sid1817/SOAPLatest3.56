@@ -35,6 +35,7 @@
   <con:defaultResponse>Search Response</con:defaultResponse>
   <con:dispatchXPath/>
   <con:routeScript/>
+  <con:requestRouteScript/>
   <con:response name="Search Response" encoding="UTF-8" httpResponseStatus="200" id="6961ab26-5c33-48ff-9c53-d2d675550bf9" dataSource="">
     <con:settings/>
     <con:script>context.item4description = Math.random() > 0.9 ? "garbage" : "Item nr 4"</con:script>

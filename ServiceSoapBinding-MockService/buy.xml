@@ -35,6 +35,7 @@
   <con:defaultResponse>Buy Response</con:defaultResponse>
   <con:dispatchXPath/>
   <con:routeScript/>
+  <con:requestRouteScript/>
   <con:response name="Buy Response" encoding="UTF-8" httpResponseStatus="200" id="7950c48f-9e80-4d53-abe0-7632784fa210" dataSource="">
     <con:settings/>
     <con:responseContent><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sam="http://www.soapui.org/sample/">

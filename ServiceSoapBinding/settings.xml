@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config" name="ServiceSoapBinding" bindingName="{http://www.soapui.org/sample/}ServiceSoapBinding" soapVersion="1_1" definition="WSDL-WADL/sample-service.wsdl" xsi:type="con:WsdlInterface" wsaVersion="NONE" id="ab875c18-0dc1-437d-a23d-8e8578216934">
-  <con:settings id="70d92e25-acce-47c9-a54d-02c9232d5c1e">
+  <con:settings id="ddfba820-1dc3-484a-b9dd-494608289588">
     <con:setting id="ab875c18-0dc1-437d-a23d-8e8578216934fileName">ServiceSoapBinding</con:setting>
   </con:settings>
   <con:endpoints>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:mockService xmlns:con="http://eviware.com/soapui/config" port="8082" path="/mockServiceSoapBinding" name="ServiceSoapBinding MockService" host="localhost" id="1b69b85c-72cf-4c46-8f76-7d72a2c7ac76">
-  <con:settings id="5e014d30-8413-4b2a-82d8-0e8ab33f32a4">
+  <con:settings id="5d9ceb05-f61e-44d4-8e1a-5299f2497a75">
     <con:setting id="com.eviware.soapui.impl.wsdl.mock.WsdlMockService@require-soap-action">false</con:setting>
     <con:setting id="1b69b85c-72cf-4c46-8f76-7d72a2c7ac76fileName">ServiceSoapBinding-MockService</con:setting>
   </con:settings>

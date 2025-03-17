@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:testSuite xmlns:con="http://eviware.com/soapui/config" name="Test Suite fails if we don't get faults" id="479e431d-7b4f-460b-b98c-fc5ccd90c893">
-  <con:description id="3edf100c-4d62-42a1-ba5a-b1fb7caee6ed">This is a complementary Test Suite that illustrates something important.
+  <con:description id="9fd610ca-892e-43a8-9719-d50af384a11d">This is a complementary Test Suite that illustrates something important.
 
             Do not only test that your Web Service works under the right conditions, also test that it work under the
             wrong ones.
